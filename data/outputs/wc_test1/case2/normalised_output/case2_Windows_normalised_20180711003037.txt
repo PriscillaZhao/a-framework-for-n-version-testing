@@ -1,0 +1,5 @@
+0 8 8 data/inputs/in_wc/input1.txt
+0 8 8 data/inputs/in_wc/input2.txt
+0 16 16 total
+
+

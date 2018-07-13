@@ -1,0 +1,10 @@
+INFO:root:('case1', ': Outputs of wc', [1, 3, 5], ' are the same. They account for totally', '21.43', '%')
+INFO:root:('case1', ': Outputs of wc', [2, 4, 6], ' are the same. They account for totally', '21.43', '%')
+INFO:root:('case1', ': Outputs of wc', [7, 9, 11, 13], ' are the same. They account for totally', '28.57', '%')
+INFO:root:('case1', ': Outputs of wc', [8, 10, 12, 14], ' are the same. They account for totally', '28.57', '%')
+INFO:root:***Voter results are as follows:
+INFO:root:--------------------------------------------------------------------------------
+INFO:root:--------------------No program agrees-------------------------------------------
+INFO:root:('wc', [1, 3, 5], 'is not plurality,but they have converged outputs')
+INFO:root:('wc', [2, 4, 6], 'is not plurality,but they have converged outputs')
+INFO:root:--------------------------------------------------------------------------------

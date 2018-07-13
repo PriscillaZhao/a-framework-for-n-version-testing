@@ -1,0 +1,24 @@
+INFO:root:case indicator is off
+INFO:root:case indicator is off
+INFO:root:('case1', ': Outputs of wc', [1, 7, 8, 14, 15], ' are the same. They account for totally', '33.33', '%')
+INFO:root:('case1', ': Outputs of wc', [2, 3, 9, 10], ' are the same. They account for totally', '26.67', '%')
+INFO:root:('case1', ': Outputs of wc', [4, 5, 11, 12], ' are the same. They account for totally', '26.67', '%')
+INFO:root:('case1', ': Outputs of wc', [6, 13], ' are the same. They account for totally', '13.33', '%')
+INFO:root:***Voter results are as follows:
+INFO:root:--------------------------------------------------------------------------------
+INFO:root:There is  plurality but it is not majority
+INFO:root:('wc', [2, 3, 9, 10], 'is not plurality,but they have converged outputs')
+INFO:root:('wc', [4, 5, 11, 12], 'is not plurality,but they have converged outputs')
+INFO:root:('wc', [6, 13], 'is not plurality,but they have converged outputs')
+INFO:root:--------------------------------------------------------------------------------
+INFO:root:('case2', ': Outputs of wc', [1, 7, 8, 14, 15], ' are the same. They account for totally', '33.33', '%')
+INFO:root:('case2', ': Outputs of wc', [2, 3, 9, 10], ' are the same. They account for totally', '26.67', '%')
+INFO:root:('case2', ': Outputs of wc', [4, 5, 11, 12], ' are the same. They account for totally', '26.67', '%')
+INFO:root:('case2', ': Outputs of wc', [6, 13], ' are the same. They account for totally', '13.33', '%')
+INFO:root:***Voter results are as follows:
+INFO:root:--------------------------------------------------------------------------------
+INFO:root:There is  plurality but it is not majority
+INFO:root:('wc', [2, 3, 9, 10], 'is not plurality,but they have converged outputs')
+INFO:root:('wc', [4, 5, 11, 12], 'is not plurality,but they have converged outputs')
+INFO:root:('wc', [6, 13], 'is not plurality,but they have converged outputs')
+INFO:root:--------------------------------------------------------------------------------

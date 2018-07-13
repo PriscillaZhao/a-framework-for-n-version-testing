@@ -1,0 +1,24 @@
+INFO:root:owl_test1.xmlindicator is on
+INFO:root:wc_test1.xmlindicator is on
+INFO:root:('case1', ': Outputs of wc', [1, 7, 8, 14, 15, 21, 22], ' are the same. They account for totally', '31.82', '%')
+INFO:root:('case1', ': Outputs of wc', [2, 3, 9, 10, 16, 17], ' are the same. They account for totally', '27.27', '%')
+INFO:root:('case1', ': Outputs of wc', [4, 5, 11, 12, 18, 19], ' are the same. They account for totally', '27.27', '%')
+INFO:root:('case1', ': Outputs of wc', [6, 13, 20], ' are the same. They account for totally', '13.64', '%')
+INFO:root:***Voter results are as follows:
+INFO:root:--------------------------------------------------------------------------------
+INFO:root:There is  plurality but it is not majority
+INFO:root:('wc', [2, 3, 9, 10, 16, 17], 'is not plurality,but they have converged outputs')
+INFO:root:('wc', [4, 5, 11, 12, 18, 19], 'is not plurality,but they have converged outputs')
+INFO:root:('wc', [6, 13, 20], 'is not plurality,but they have converged outputs')
+INFO:root:--------------------------------------------------------------------------------
+INFO:root:('case2', ': Outputs of wc', [1, 7, 8, 14, 15, 21, 22], ' are the same. They account for totally', '31.82', '%')
+INFO:root:('case2', ': Outputs of wc', [2, 3, 9, 10, 16, 17], ' are the same. They account for totally', '27.27', '%')
+INFO:root:('case2', ': Outputs of wc', [4, 5, 11, 12, 18, 19], ' are the same. They account for totally', '27.27', '%')
+INFO:root:('case2', ': Outputs of wc', [6, 13, 20], ' are the same. They account for totally', '13.64', '%')
+INFO:root:***Voter results are as follows:
+INFO:root:--------------------------------------------------------------------------------
+INFO:root:There is  plurality but it is not majority
+INFO:root:('wc', [2, 3, 9, 10, 16, 17], 'is not plurality,but they have converged outputs')
+INFO:root:('wc', [4, 5, 11, 12, 18, 19], 'is not plurality,but they have converged outputs')
+INFO:root:('wc', [6, 13, 20], 'is not plurality,but they have converged outputs')
+INFO:root:--------------------------------------------------------------------------------

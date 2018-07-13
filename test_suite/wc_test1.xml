@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<test>
+    <case1>-l -m -c data/inputs/in_wc/input1.txt</case1>
+    <case2>-l -m -c data/inputs/in_wc/input1.txt data/inputs/in_wc/input2.txt</case2>
+</test>

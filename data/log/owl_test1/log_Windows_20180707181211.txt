@@ -1,0 +1,1 @@
+INFO:root:owl_test1.xml indicator is on

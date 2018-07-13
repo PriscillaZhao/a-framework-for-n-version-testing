@@ -1,0 +1,10 @@
+INFO:root:wc_test1.xml indicator is on
+INFO:root:Raw outputs:
+INFO:root:0 8 8 data/inputs/in_wc/input1.txt
+
+INFO:root:Raw outputs:
+INFO:root:0 8 8 data/inputs/in_wc/input1.txt
+
+INFO:root:Raw outputs:
+INFO:root:	0	8	8	data/inputs/in_wc/input1.txt
+

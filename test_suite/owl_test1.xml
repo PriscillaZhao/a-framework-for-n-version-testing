@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<test>
+    <case1>classification test.owl output.owl</case1>
+</test>

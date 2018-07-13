@@ -1,0 +1,155 @@
+INFO:root:wc_test1.xml indicator is on
+INFO:root:Raw outputs:
+INFO:root:0 8 8 data/inputs/in_wc/input1.txt
+
+INFO:root:Raw outputs:
+INFO:root:0 8 8 data/inputs/in_wc/input1.txt
+
+INFO:root:Raw outputs:
+INFO:root:	0	8	8	data/inputs/in_wc/input1.txt
+
+INFO:root:Raw outputs:
+INFO:root:	0	8	8	data/inputs/in_wc/input1.txt
+
+INFO:root:Raw outputs:
+INFO:root:0 8 8 data/inputs/in_wc/input1.txt
+
+INFO:root:Raw outputs:
+INFO:root:      1      8      8   data/inputs/in_wc/input1.txt
+
+INFO:root:Raw outputs:
+INFO:root:      1      8      8   data/inputs/in_wc/input1.txt
+
+INFO:root:Normalised output of program:
+INFO:root:0 8 8 data/inputs/in_wc/input1.txt
+
+
+
+INFO:root:Normalised output of program:
+INFO:root:0 8 8 data/inputs/in_wc/input1.txt
+
+
+
+INFO:root:Normalised output of program:
+INFO:root:0 8 8 data/inputs/in_wc/input1.txt
+
+
+
+INFO:root:Normalised output of program:
+INFO:root:0 8 8 data/inputs/in_wc/input1.txt
+
+
+
+INFO:root:Normalised output of program:
+INFO:root:0 8 8 data/inputs/in_wc/input1.txt
+
+
+
+INFO:root:Normalised output of program:
+INFO:root:1 8 8 data/inputs/in_wc/input1.txt
+
+
+
+INFO:root:Normalised output of program:
+INFO:root:1 8 8 data/inputs/in_wc/input1.txt
+
+
+
+INFO:root:('case1', ': Outputs of wc', [1, 2, 3, 4, 5], ' are the same. They account for totally', '71.43', '%')
+INFO:root:('case1', ': Outputs of wc', [6, 7], ' are the same. They account for totally', '28.57', '%')
+INFO:root:===========================Voter results are as follows=====================================
+INFO:root:===========================================================================================
+INFO:root:There is  plurality and it is majority
+INFO:root:('wc', [6, 7], 'is not plurality,but they have converged outputs')
+INFO:root:===========================================================================================
+INFO:root:Raw outputs:
+INFO:root: 0  8  8 data/inputs/in_wc/input1.txt
+ 0  8  8 data/inputs/in_wc/input2.txt
+ 0 16 16 total
+
+INFO:root:Raw outputs:
+INFO:root: 0  8  8 data/inputs/in_wc/input1.txt
+ 0  8  8 data/inputs/in_wc/input2.txt
+ 0 16 16 total
+
+INFO:root:Raw outputs:
+INFO:root:	0	 8	 8	data/inputs/in_wc/input1.txt
+	0	 8	 8	data/inputs/in_wc/input2.txt
+	0	16	16	total
+
+INFO:root:Raw outputs:
+INFO:root:	0	 8	 8	data/inputs/in_wc/input1.txt
+	0	 8	 8	data/inputs/in_wc/input2.txt
+	0	16	16	total
+
+INFO:root:Raw outputs:
+INFO:root: 0  8  8 data/inputs/in_wc/input1.txt
+ 0  8  8 data/inputs/in_wc/input2.txt
+ 0 16 16 total
+
+INFO:root:Raw outputs:
+INFO:root:      1      8      8   data/inputs/in_wc/input1.txt
+      1      8      8   data/inputs/in_wc/input2.txt
+      2     16     16   total
+
+INFO:root:Raw outputs:
+INFO:root:      1      8      8   data/inputs/in_wc/input1.txt
+      1      8      8   data/inputs/in_wc/input2.txt
+      2     16     16   total
+
+INFO:root:Normalised output of program:
+INFO:root:0 8 8 data/inputs/in_wc/input1.txt
+0 8 8 data/inputs/in_wc/input2.txt
+0 16 16 total
+
+
+
+INFO:root:Normalised output of program:
+INFO:root:0 8 8 data/inputs/in_wc/input1.txt
+0 8 8 data/inputs/in_wc/input2.txt
+0 16 16 total
+
+
+
+INFO:root:Normalised output of program:
+INFO:root:0 8 8 data/inputs/in_wc/input1.txt
+0 8 8 data/inputs/in_wc/input2.txt
+0 16 16 total
+
+
+
+INFO:root:Normalised output of program:
+INFO:root:0 8 8 data/inputs/in_wc/input1.txt
+0 8 8 data/inputs/in_wc/input2.txt
+0 16 16 total
+
+
+
+INFO:root:Normalised output of program:
+INFO:root:0 8 8 data/inputs/in_wc/input1.txt
+0 8 8 data/inputs/in_wc/input2.txt
+0 16 16 total
+
+
+
+INFO:root:Normalised output of program:
+INFO:root:1 8 8 data/inputs/in_wc/input1.txt
+1 8 8 data/inputs/in_wc/input2.txt
+2 16 16 total
+
+
+
+INFO:root:Normalised output of program:
+INFO:root:1 8 8 data/inputs/in_wc/input1.txt
+1 8 8 data/inputs/in_wc/input2.txt
+2 16 16 total
+
+
+
+INFO:root:('case2', ': Outputs of wc', [1, 2, 3, 4, 5], ' are the same. They account for totally', '71.43', '%')
+INFO:root:('case2', ': Outputs of wc', [6, 7], ' are the same. They account for totally', '28.57', '%')
+INFO:root:===========================Voter results are as follows=====================================
+INFO:root:===========================================================================================
+INFO:root:There is  plurality and it is majority
+INFO:root:('wc', [6, 7], 'is not plurality,but they have converged outputs')
+INFO:root:===========================================================================================

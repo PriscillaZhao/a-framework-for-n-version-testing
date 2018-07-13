@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RequestMessage xmlns="http://www.owllink.org/owllink-xml#"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xml:base="http://www.owllink.org/testsuite/1a#"
+    xsi:schemaLocation="http://www.owllink.org/owllink-xml# http://www.owllink.org/owllink-xml.xsd">
+	
+	<!--Configurations for the Konclude reasoner.-->	
+	
+	
+	
+	
+
+	<!--  *****  ORE configurations  *****  -->
+	
+	<Set key='Konclude.ORE.ClassHierarchyResult.WriteDeclarations'>
+		<Literal>false</Literal>
+	</Set>	
+
+	<Set key='Konclude.ORE.ClassHierarchyResult.WriteDirectEquivalences'>
+		<Literal>true</Literal>
+	</Set>	
+
+	<Set key='Konclude.ORE.ClassHierarchyResult.WriteReducedTopSubclasses'>
+		<Literal>false</Literal>
+	</Set>	
+
+	<Set key='Konclude.ORE.ClassHierarchyResult.WriteReducedBottomSubclasses'>
+		<Literal>true</Literal>
+	</Set>	
+
+	<Set key='Konclude.ORE.ClassHierarchyResult.WriteReducedInconsistency'>
+		<Literal>true</Literal>
+	</Set>	
+
+
+	<Set key='Konclude.ORE.RealizationResult.WriteReducedInconsistency'>
+		<Literal>true</Literal>
+	</Set>	
+
+	<Set key='Konclude.ORE.RealizationResult.WriteOnlyDirectTypes'>
+		<Literal>false</Literal>
+	</Set>	
+
+	<Set key='Konclude.ORE.RealizationResult.WriteDeclarations'>
+		<Literal>false</Literal>
+	</Set>	
+	
+	
+	
+</RequestMessage>

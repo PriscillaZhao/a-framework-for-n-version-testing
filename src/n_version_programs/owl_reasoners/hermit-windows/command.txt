@@ -1,0 +1,11 @@
+java -Xmx1024M -cp .;lib -jar OREv2ReasonerWrapper.jar org.semanticweb.HermiT.Reasoner$ReasonerFactory classification test.owl output.owl
+
+timeout $timeoutsec java -Xmx$2 -Djava.library.path=.:./lib -jar OREv2ReasonerWrapper.jar uk.ac.manchester.cs.factplusplus.owlapiv3.FaCTPlusPlusReasonerFactory $3 $4 $5 $6 $7 $8 $9
+		
+timeout $timeoutsec java -Xmx$2 -jar OREv2ReasonerWrapper.jar org.semanticweb.HermiT.Reasoner\$ReasonerFactory $3 $4 $5 $6 $7 $8 $9
+
+timeout $timeoutsec java -Xmx$2 -jar OREv2ReasonerWrapper.jar eu.trowl.owlapi3.rel.reasoner.el.RELReasonerFactory $3 $4 $5 $6 $7 $8 $9
+
+
+timeout $timeoutsec ./Konclude -DefaultReasonerLoader +Konclude.Calculation.ProcessorCount=1 -OWLlinkBatchFileLoader +Konclude.OWLlink.CloseAfterProcessedRequest=false +Konclude.OWLlink.BlockUntilProcessedRequest=true +Konclude.OWLlink.RequestFile="ORE-config.xml" -OREBatchProcessingLoader +Konclude.ORE.OperationTask="$3" +Konclude.ORE.OntologyFile="$4" +Konclude.ORE.ResponseFile="$5" +Konclude.ORE.IRIName="$6"
+

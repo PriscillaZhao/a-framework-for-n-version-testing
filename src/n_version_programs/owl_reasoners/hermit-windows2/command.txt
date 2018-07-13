@@ -1,0 +1,1 @@
+java -Xmx1024M -cp .;lib -jar OREv2ReasonerWrapper.jar org.semanticweb.HermiT.Reasoner$ReasonerFactory classification test.owl output.owl

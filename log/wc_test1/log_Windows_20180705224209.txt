@@ -1,0 +1,323 @@
+INFO:root:wc_test1.xml indicator is on
+INFO:root:Raw outputs:
+INFO:root:0 8 8 data/inputs/in_wc/input1.txt
+
+INFO:root:Raw outputs:
+INFO:root:0 8 8 data/inputs/in_wc/input1.txt
+
+INFO:root:Raw outputs:
+INFO:root:	0	8	8	data/inputs/in_wc/input1.txt
+
+INFO:root:Raw outputs:
+INFO:root:	0	8	8	data/inputs/in_wc/input1.txt
+
+INFO:root:Raw outputs:
+INFO:root:0 8 8 data/inputs/in_wc/input1.txt
+
+INFO:root:Raw outputs:
+INFO:root:      1      8      8   data/inputs/in_wc/input1.txt
+
+INFO:root:Raw outputs:
+INFO:root:      1      8      8   data/inputs/in_wc/input1.txt
+
+INFO:root:Normalised output of program:
+INFO:root:0 8 8 data/in_wc/input1.txt
+
+
+0 8 8 data/in_wc/input1.txt
+
+
+
+INFO:root:Normalised output of program:
+INFO:root:0 8 8 data/in_wc/input1.txt
+
+
+0 8 8 data/in_wc/input1.txt
+
+
+
+INFO:root:Normalised output of program:
+INFO:root:0 8 8 data/in_wc/input1.txt
+
+
+0 8 8 data/in_wc/input1.txt
+
+
+
+INFO:root:Normalised output of program:
+INFO:root:0 8 8 data/in_wc/input1.txt
+
+
+0 8 8 data/in_wc/input1.txt
+
+
+
+INFO:root:Normalised output of program:
+INFO:root:0 8 8 data/in_wc/input1.txt
+
+
+0 8 8 data/in_wc/input1.txt
+
+
+
+INFO:root:Normalised output of program:
+INFO:root:1 8 8 data/in_wc/input1.txt
+
+
+1 8 8 data/in_wc/input1.txt
+
+
+
+INFO:root:Normalised output of program:
+INFO:root:1 8 8 data/in_wc/input1.txt
+
+
+1 8 8 data/in_wc/input1.txt
+
+
+
+INFO:root:Normalised output of program:
+INFO:root:0 8 8 data/in_wc/input1.txt
+
+
+
+INFO:root:Normalised output of program:
+INFO:root:0 8 8 data/in_wc/input1.txt
+
+
+
+INFO:root:Normalised output of program:
+INFO:root:0 8 8 data/in_wc/input1.txt
+
+
+
+INFO:root:Normalised output of program:
+INFO:root:0 8 8 data/in_wc/input1.txt
+
+
+
+INFO:root:Normalised output of program:
+INFO:root:0 8 8 data/inputs/in_wc/input1.txt
+
+
+
+INFO:root:Normalised output of program:
+INFO:root:0 8 8 data/inputs/in_wc/input1.txt
+
+
+
+INFO:root:Normalised output of program:
+INFO:root:0 8 8 data/inputs/in_wc/input1.txt
+
+
+
+INFO:root:Normalised output of program:
+INFO:root:0 8 8 data/inputs/in_wc/input1.txt
+
+
+
+INFO:root:Normalised output of program:
+INFO:root:0 8 8 data/inputs/in_wc/input1.txt
+
+
+
+INFO:root:Normalised output of program:
+INFO:root:1 8 8 data/inputs/in_wc/input1.txt
+
+
+
+INFO:root:Normalised output of program:
+INFO:root:1 8 8 data/inputs/in_wc/input1.txt
+
+
+
+INFO:root:('case1', ': Outputs of wc', [1, 2, 3, 4, 5], ' are the same. They account for totally', '27.78', '%')
+INFO:root:('case1', ': Outputs of wc', [6, 7], ' are the same. They account for totally', '11.11', '%')
+INFO:root:('case1', ': Outputs of wc', [8, 9, 10, 11], ' are the same. They account for totally', '22.22', '%')
+INFO:root:('case1', ': Outputs of wc', [12, 13, 14, 15, 16], ' are the same. They account for totally', '27.78', '%')
+INFO:root:('case1', ': Outputs of wc', [17, 18], ' are the same. They account for totally', '11.11', '%')
+INFO:root:***Voter results are as follows:
+INFO:root:--------------------------------------------------------------------------------
+INFO:root:--------------------No program agrees-------------------------------------------
+INFO:root:('wc', [6, 7], 'is not plurality,but they have converged outputs')
+INFO:root:('wc', [8, 9, 10, 11], 'is not plurality,but they have converged outputs')
+INFO:root:('wc', [17, 18], 'is not plurality,but they have converged outputs')
+INFO:root:--------------------------------------------------------------------------------
+INFO:root:Raw outputs:
+INFO:root: 0  8  8 data/inputs/in_wc/input1.txt
+ 0  8  8 data/inputs/in_wc/input2.txt
+ 0 16 16 total
+
+INFO:root:Raw outputs:
+INFO:root: 0  8  8 data/inputs/in_wc/input1.txt
+ 0  8  8 data/inputs/in_wc/input2.txt
+ 0 16 16 total
+
+INFO:root:Raw outputs:
+INFO:root:	0	 8	 8	data/inputs/in_wc/input1.txt
+	0	 8	 8	data/inputs/in_wc/input2.txt
+	0	16	16	total
+
+INFO:root:Raw outputs:
+INFO:root:	0	 8	 8	data/inputs/in_wc/input1.txt
+	0	 8	 8	data/inputs/in_wc/input2.txt
+	0	16	16	total
+
+INFO:root:Raw outputs:
+INFO:root: 0  8  8 data/inputs/in_wc/input1.txt
+ 0  8  8 data/inputs/in_wc/input2.txt
+ 0 16 16 total
+
+INFO:root:Raw outputs:
+INFO:root:      1      8      8   data/inputs/in_wc/input1.txt
+      1      8      8   data/inputs/in_wc/input2.txt
+      2     16     16   total
+
+INFO:root:Raw outputs:
+INFO:root:      1      8      8   data/inputs/in_wc/input1.txt
+      1      8      8   data/inputs/in_wc/input2.txt
+      2     16     16   total
+
+INFO:root:Normalised output of program:
+INFO:root:0 8 8 data/in_wc/input1.txt
+0 8 8 data/in_wc/input2.txt
+0 16 16 total
+
+
+0 8 8 data/in_wc/input1.txt
+0 8 8 data/in_wc/input2.txt
+0 16 16 total
+
+
+
+INFO:root:Normalised output of program:
+INFO:root:0 8 8 data/in_wc/input1.txt
+0 8 8 data/in_wc/input2.txt
+0 16 16 total
+
+
+0 8 8 data/in_wc/input1.txt
+0 8 8 data/in_wc/input2.txt
+0 16 16 total
+
+
+
+INFO:root:Normalised output of program:
+INFO:root:0 8 8 data/in_wc/input1.txt
+0 8 8 data/in_wc/input2.txt
+0 16 16 total
+
+
+0 8 8 data/in_wc/input1.txt
+0 8 8 data/in_wc/input2.txt
+0 16 16 total
+
+
+
+INFO:root:Normalised output of program:
+INFO:root:0 8 8 data/in_wc/input1.txt
+0 8 8 data/in_wc/input2.txt
+0 16 16 total
+
+
+0 8 8 data/in_wc/input1.txt
+0 8 8 data/in_wc/input2.txt
+0 16 16 total
+
+
+
+INFO:root:Normalised output of program:
+INFO:root:0 8 8 data/in_wc/input1.txt
+0 8 8 data/in_wc/input2.txt
+0 16 16 total
+
+
+0 8 8 data/in_wc/input1.txt
+0 8 8 data/in_wc/input2.txt
+0 16 16 total
+
+
+
+INFO:root:Normalised output of program:
+INFO:root:1 8 8 data/in_wc/input1.txt
+1 8 8 data/in_wc/input2.txt
+2 16 16 total
+
+
+1 8 8 data/in_wc/input1.txt
+1 8 8 data/in_wc/input2.txt
+2 16 16 total
+
+
+
+INFO:root:Normalised output of program:
+INFO:root:1 8 8 data/in_wc/input1.txt
+1 8 8 data/in_wc/input2.txt
+2 16 16 total
+
+
+1 8 8 data/in_wc/input1.txt
+1 8 8 data/in_wc/input2.txt
+2 16 16 total
+
+
+
+INFO:root:Normalised output of program:
+INFO:root:0 8 8 data/inputs/in_wc/input1.txt
+0 8 8 data/inputs/in_wc/input2.txt
+0 16 16 total
+
+
+
+INFO:root:Normalised output of program:
+INFO:root:0 8 8 data/inputs/in_wc/input1.txt
+0 8 8 data/inputs/in_wc/input2.txt
+0 16 16 total
+
+
+
+INFO:root:Normalised output of program:
+INFO:root:0 8 8 data/inputs/in_wc/input1.txt
+0 8 8 data/inputs/in_wc/input2.txt
+0 16 16 total
+
+
+
+INFO:root:Normalised output of program:
+INFO:root:0 8 8 data/inputs/in_wc/input1.txt
+0 8 8 data/inputs/in_wc/input2.txt
+0 16 16 total
+
+
+
+INFO:root:Normalised output of program:
+INFO:root:0 8 8 data/inputs/in_wc/input1.txt
+0 8 8 data/inputs/in_wc/input2.txt
+0 16 16 total
+
+
+
+INFO:root:Normalised output of program:
+INFO:root:1 8 8 data/inputs/in_wc/input1.txt
+1 8 8 data/inputs/in_wc/input2.txt
+2 16 16 total
+
+
+
+INFO:root:Normalised output of program:
+INFO:root:1 8 8 data/inputs/in_wc/input1.txt
+1 8 8 data/inputs/in_wc/input2.txt
+2 16 16 total
+
+
+
+INFO:root:('case2', ': Outputs of wc', [1, 2, 3, 4, 5], ' are the same. They account for totally', '35.71', '%')
+INFO:root:('case2', ': Outputs of wc', [6, 7], ' are the same. They account for totally', '14.29', '%')
+INFO:root:('case2', ': Outputs of wc', [8, 9, 10, 11, 12], ' are the same. They account for totally', '35.71', '%')
+INFO:root:('case2', ': Outputs of wc', [13, 14], ' are the same. They account for totally', '14.29', '%')
+INFO:root:***Voter results are as follows:
+INFO:root:--------------------------------------------------------------------------------
+INFO:root:--------------------No program agrees-------------------------------------------
+INFO:root:('wc', [6, 7], 'is not plurality,but they have converged outputs')
+INFO:root:('wc', [13, 14], 'is not plurality,but they have converged outputs')
+INFO:root:--------------------------------------------------------------------------------
